@@ -1,3 +1,6 @@
 bytes
 #!/bin/bash
-tail /etc/passwd
+tail /etc/paclear
+clear
+
+d
