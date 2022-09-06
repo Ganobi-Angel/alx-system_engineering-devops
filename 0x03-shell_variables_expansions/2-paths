@@ -1,2 +1,0 @@
-o $PATH | tr ":" "\n" | wc -l
-
