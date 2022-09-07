@@ -1,6 +1,2 @@
-bytes
 #!/bin/bash
-tail /etc/paclear
-clear
-
-d
+head /etc/passwd
